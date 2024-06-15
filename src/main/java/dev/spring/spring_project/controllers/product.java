@@ -12,9 +12,9 @@ public class product {
         return "hello ishank";
     }
 
-    @GetMapping("/ishank/hello/2")
-    public String hello2(){
-        return "hello ishank chopra";
-    }
+//    @GetMapping("/get/hello/2")
+//    public String hello2(){
+//        return "hello ishank 2";
+//    }
 }
 
